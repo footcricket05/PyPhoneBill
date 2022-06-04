@@ -1,0 +1,14 @@
+mysql> create database shaurya;
+
+mysql> use shaurya;
+
+mysql> create table customer
+    -> (phno char(10),
+    -> name varchar(30),
+    -> address varchar(30),
+    -> aadhar_no char(15),
+    -> bill integer default 0,
+    -> status varchar(15) default 'N.A.',
+    -> ftp integer default 0
+    -> );
+
