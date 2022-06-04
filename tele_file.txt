@@ -1,0 +1,5 @@
+('9999847323', 'Shaurya Srinet', 'Delhi', '123456781234', 32, 'Paid', 1)
+('9757301623', 'Madhav Gautam', 'Bangalore', '123412345678', 310, 'Paid', 1)
+('9831200841', 'Surabhi Tiwari', 'Gurugram', '567842316753', 0, 'N.A.', 0)
+('9798623217', 'Anjali Vaish', 'Goa', '678923451278', 0, 'N.A.', 0)
+
