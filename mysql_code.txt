@@ -12,3 +12,4 @@ mysql> create table customer
     -> ftp integer default 0
     -> );
 
+mysql> select * from customer;
