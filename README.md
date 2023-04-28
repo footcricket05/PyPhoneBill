@@ -42,4 +42,4 @@ This project is not currently accepting contributions.
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the `MIT License`.
