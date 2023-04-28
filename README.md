@@ -1,6 +1,8 @@
 # Online Telephone Billing System Using Python And MySQL
 
+
 ![image](https://user-images.githubusercontent.com/93007427/172018023-622f1633-cde5-41a3-872d-d385ee57eaf6.png)
+
 
 This project is a computerization of the telephone billing system, allowing for automatic billing, new connection requests, customer registration, viewing customer details, and modifications to customer details. It also handles rate calculations, bill calculations, and bill generation.
 
@@ -34,8 +36,10 @@ Python
 
 
 
-##Contributing
+# Contributing
 This project is not currently accepting contributions.
 
-License
+
+
+## License
 This project is licensed under the MIT License.
