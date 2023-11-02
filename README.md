@@ -1,17 +1,17 @@
-# PyPhoneBill: Online Telephone Billing System using Python
+# PyPhoneBill: Online Telephone Billing System using Python ☎️💻
 
 ![Online Telephone Billing System](https://user-images.githubusercontent.com/93007427/172018023-622f1633-cde5-41a3-872d-d385ee57eaf6.png)
 
 The Online Telephone Billing System is a computerized solution for handling telephone billing operations. This project streamlines various aspects, such as automatic billing, new connection requests, customer registration, customer information management, rate calculations, bill calculations, and bill generation.
 
-## Technologies Used
+## Technologies Used 🛠️
 
 This system is built using the following technologies:
 
 - **MySQL:** For managing the database that stores customer information and billing data.
 - **Python:** The core programming language used to implement the functionality of the telephone billing system.
 
-## Files
+## Files 📁
 
 Here's a brief overview of the project files:
 
@@ -23,7 +23,7 @@ Here's a brief overview of the project files:
 
 4. **mysql_code.txt:** A text file containing MySQL database-related code used in the project.
 
-## Usage
+## Usage 🚀
 
 To use the Online Telephone Billing System, follow these steps:
 
@@ -33,12 +33,10 @@ To use the Online Telephone Billing System, follow these steps:
 
 3. Run the code to execute the telephone billing system. This will enable you to perform tasks such as automatic billing, customer registration, bill generation, and more.
 
-## Contributing
+## Contributing 🤝
 
 At this time, the project is not accepting contributions. However, you are welcome to use the project as a reference or inspiration for your own projects.
 
-## License
+## License 📜
 
 This project is open-source and is licensed under the `MIT License`. Please refer to the LICENSE file for more details.
-
-Feel free to enhance this README and the project further to make it more informative and user-friendly. Good luck with your Online Telephone Billing System!
